@@ -1,0 +1,31 @@
+table th {
+  padding: 10px;
+}
+
+table td {
+  padding: 3px 10px;
+}
+
+table th{
+  color: #FF9800;
+  background : #fff5e5;
+
+  border : solid 1px black;
+}
+
+table td{
+  color : gray;
+
+  border : solid 1px black;
+}
+
+table {
+  width: 300px;
+  text-align: center;
+  border-collapse : collapse;
+  border : solid 2px orange;
+}
+
+table th, table td {
+  border : dashed 1px orange;
+}
